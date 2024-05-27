@@ -1,7 +1,6 @@
 python-dotenv
 PyPDF2
 scikit-learn
-pyresparser
 pdfminer3
 requests
 langchain_community
