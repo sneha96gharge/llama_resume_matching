@@ -14,7 +14,7 @@ from prompt_utils import prompt_extract_text  # type: ignore # Changed to local 
 from langchain_community.llms import Ollama # type: ignore
 import os
 import io
-from groq import Groq # type: ignore
+from groq import Groq 
 
 client = Groq(
     api_key='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',

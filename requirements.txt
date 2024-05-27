@@ -5,3 +5,4 @@ pdfminer3
 requests
 langchain_community
 streamlit
+groq
