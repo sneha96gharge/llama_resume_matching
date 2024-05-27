@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from sklearn.feature_extraction.text import TfidfVectorizer # type: ignore
 from sklearn.metrics.pairwise import cosine_similarity # type: ignore
-from pyresparser import ResumeParser
 from pdfminer3.layout import LAParams, LTTextBox
 from pdfminer3.pdfpage import PDFPage
 from pdfminer3.pdfinterp import PDFResourceManager
